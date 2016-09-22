@@ -1,7 +1,7 @@
-package com.b0npu.marshmallowpermission
+package com.b0npu.mpermissions
 
 import android.os.Build.VERSION_CODES.LOLLIPOP
-import com.b0npu.marshmallowpermission.R
+import com.b0npu.mpermissions.R
 import org.robolectric.RuntimeEnvironment
 import org.robolectric.annotation.Config
 import org.scalatest.{ FlatSpec, Matchers, RobolectricSuite }
