@@ -1,5 +1,5 @@
 # MarshmallowPermission
-Empty Activity Template for Scala on Android using sbt
+My practice App to learn Scala on Android
 
 ## Demo
 ![screenshot](https://github.com/b0npu/MarshmallowPermission/blob/graphicimages/mpermissions.gif)
