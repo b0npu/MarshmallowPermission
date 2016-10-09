@@ -24,7 +24,7 @@ class MainActivity extends AppCompatActivity with TypedFindView {
     * requestPermissionsメソッドで権限を要求した際に
     * コールバックメソッドのonRequestPermissionsResultメソッドに渡す定数を定義
     * Logを所々で表示するのでTagの変数も定義
-    * (自クラスで使うだけの非公開フィールドは明示的にprivateにしてます)
+    * (自クラスで使うだけのフィールドはprivateにして明示的に非公開にしてます)
     */
   private val REQUEST_CAMERA_PERMISSION_CODE: Int = 0x01
   private val REQUEST_READ_STORAGE_PERMISSION_CODE: Int = 0x02
